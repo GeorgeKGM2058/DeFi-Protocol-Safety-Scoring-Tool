@@ -66,7 +66,7 @@ All weights and logic are in the notebook, easy to tweak.
 ## Installation & Usage (Google Colab – Recommended)
 
 1. Open the notebook directly in Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeKGM2058/DeFi-Protocol-Safety-Scoring-Tool/blob/main/DeFi-Protocol-Safety-Scoring-Tool.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeKGM2058/DeFi-Protocol-Safety-Scoring-Tool/blob/main/DeFi_Protocol_Safety_Scoring_Tool.ipynb)
 
 2. Run all cells (top to bottom). It installs minimal packages (`scikit-learn`, `fpdf2`) quietly.
 
